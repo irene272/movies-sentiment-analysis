@@ -7,4 +7,4 @@ The used IMDb movies dataset is abvailable on kaggle:
 ```https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data```
 
 A summary of prediction results on a classification problem is presented with confusion matrix:
-![confusion_matrix](confusion_matrix.png)
+![confusion_matrix](confusion_matrix.jpg)

@@ -5,3 +5,6 @@ The input data of the model is a column of short movies texts reviews (previousl
 As the model output, we get the predicted classification of responses according to positive or negative classes and determine how accurately the distribution of responses is. 
 The used IMDb movies dataset is abvailable on kaggle:
 ```https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data```
+
+A summary of prediction results on a classification problem is presented with confusion matrix:
+![confusion_matrix](confusion_matrix.png)
